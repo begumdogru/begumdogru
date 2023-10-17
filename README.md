@@ -22,4 +22,7 @@
 - Passionate about software development
 - Committed to efficient project management
 
+🔗 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/beg%C3%BCm-do%C4%9Fru-2922a9173/)
+📧 Email: begum.do@gmail.com
+
 🌟 Let's code for success! 🚀
