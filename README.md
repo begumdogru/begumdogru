@@ -1,10 +1,10 @@
 ### Hi there 👋
-👨‍💻 Skilled Junior Software Engineer
+👨‍💻 Skilled Software Engineer
 🌐 Specializing in client-centric software development
 
 🔧 Expertise:
 - Java
-- NodeJS
+- React / Typescript
 - Object-Oriented Programming
 
 🛠️ Backend Technologies:
